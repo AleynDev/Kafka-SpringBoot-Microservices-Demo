@@ -84,3 +84,9 @@ If you check the logs of `SpringBootConsumer`, you should see the message "Hello
 
 This message is sent when `SpringBootProviderApplication` starts, triggered by the `CommandLineRunner` initialization.
 
+## Credits
+
+This project is based on the following YouTube video:
+
+- **Video Title:** [Spring Boot con Apache Kafka - Guía completa](https://www.youtube.com/watch?v=UbbyW5Z1lv8&t=1411s)
+- **Creator:** [@unprogramadornace](https://www.youtube.com/@unprogramadornace)
