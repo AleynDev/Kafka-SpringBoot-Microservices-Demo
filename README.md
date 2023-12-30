@@ -17,6 +17,8 @@ Before you begin, ensure you have the following installed:
 - **Docker**: Install Docker on your machine to run Apache Kafka and Zookeeper easily. You can find Docker installation instructions [here](https://docs.docker.com/get-docker/).
 
 
+## Getting Started
+
 1. **Clone the Repository**
 
     ```bash
